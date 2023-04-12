@@ -1,1 +1,1 @@
-Live Preiview of the App : https://moviesgeek.netlify.app/
+Live Preview of the App : https://moviesgeek.netlify.app/
